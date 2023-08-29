@@ -4,7 +4,7 @@
     ```
     pip install -r requirements.txt
     ```
-- Pretrained Models(optional)
+- Pretrained Models (Optional)
 
 	- run.py 실행 시 pretrained model은 자동으로 설치됨.
 	
