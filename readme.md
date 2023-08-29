@@ -2,5 +2,5 @@
 
 - Run Magic123 coarse stage without textual inversion, takes ~40 mins
     ```
-    --save_mesh
+    pip3 install -r requirements.txt
     ```
