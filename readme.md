@@ -2,5 +2,9 @@
 
 - Install Dependencies
     ```
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
+    ```
+- Run Radio
+    ```
+    python run.py 
     ```
