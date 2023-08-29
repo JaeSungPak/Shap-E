@@ -1,6 +1,6 @@
-# Shap-E Radio
+# Shap-E Gradio
 
-- Run Magic123 coarse stage without textual inversion, takes ~40 mins
+- Install Dependencies
     ```
     pip3 install -r requirements.txt
     ```
