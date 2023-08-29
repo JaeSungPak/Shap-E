@@ -12,7 +12,7 @@
 
 
 
-- Run Radio
+- Run Gradio
     ```
     python run.py 
     ```
